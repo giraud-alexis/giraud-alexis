@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @giraud-alexis
 - 👀 I’m interested to almost everything: from web development to electronics and programming.
-- 🌱 I’m currently learning dev web full stack in self-taught
+- 🌱 I’m currently learning dev web full stack at O'clock school.
 - 💞️ I’m looking to collaborate on nothing in particular at the moment
 - 📫 How to reach me in my mail : alexis33190@gmail.com
 
