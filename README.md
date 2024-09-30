@@ -2,9 +2,10 @@
 - 👀 I’m interested to almost everything: from web development to electronics and programming.
 - 🌱 I’m currently learning dev web full stack at O'clock school.
 - 💞️ I’m looking to collaborate on nothing in particular at the moment
-- ✨ I have completed two projects today:
-- https://art-esthetique.web.app/
-- https://sandrine-coiffure-domici-606ef.web.app/
+- ✨ I have completed three projects today:
+- https://lart-esthetique.fr
+- www.sandrine-coiffure.fr
+- https://pet-foster-connect.website
 - 📫 How to reach me in my mail : alexis33190@gmail.com
 
 <!---
